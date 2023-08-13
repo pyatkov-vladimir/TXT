@@ -1,0 +1,4 @@
+full name - Пятков Владимир Алексеевич
+age - 20
+pets - none
+desired salary - 1000$
