@@ -1,0 +1,5 @@
+favourite movie: "Shutter Island"
+favourite series: "Кухня"
+favourite food: "Julienne"
+favourite season: "Spring"
+a country i want to visit: "France"
